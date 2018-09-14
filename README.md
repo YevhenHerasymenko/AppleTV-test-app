@@ -1,2 +1,3 @@
-# AppleTV-test-app
-test apple tv
+# tvos-example
+
+Simple Apple TV Project (Event 14.09.2018)
